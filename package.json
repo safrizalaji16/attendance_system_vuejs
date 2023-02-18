@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@vue-leaflet/vue-leaflet": "^0.8.3",
+    "leaflet": "^1.9.3"
+  }
+}
